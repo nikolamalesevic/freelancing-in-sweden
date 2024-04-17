@@ -232,7 +232,7 @@ For more information on the steps, you can visit Verksamt but you essentially on
 
 *Links:* 
 
--   [Verksamt - Get started - sole trader](https://www.verksamt.se/en/web/international/starting/get-started-business-registration-and-tax/sole-trader)
+-   [Verksamt - Get started - sole trader](https://verksamt.se/en/setting-up/choose-business-type/sole-trader)
 
 ### Aktiebolag (AB) - Limited Company
 
@@ -245,7 +245,7 @@ After that, you can follow the steps at Verksamt. Good luck!
 
 *Links*: 
 
-- [Verksamt - Get started - Limited company](https://www.verksamt.se/en/web/international/starting/get-started-business-registration-and-tax/limited-company)
+- [Verksamt - Get started - Limited company](https://verksamt.se/en/setting-up/choose-business-type/limited-company)
 
 
 
