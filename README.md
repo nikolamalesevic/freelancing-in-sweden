@@ -474,7 +474,7 @@ In this section I've collected some learnings that I have found relevant and use
 As the owner and primary shareholder of a limited liability company, you can pay yourself dividends. These dividends, if they are below a certain threshold amount, will be favourably taxed at 20% of the amount. If you exceed the threshold amount, the excess will be taxed as income, which generally has a much higher taxation rate. 
 
 There are two methods of determining the threshold amount. Essentially, you are free to pick the rule that is most favourable to you. 
-1. **The Simplification Rule (Swedish: Förenklingsregeln).** If you use the simplification rule, you can simply pay out dividends up to a predetermined amount set by Skatteverket. For the financial year of 2019, this threshold amount was 171 875 SEK, but the amount is adjusted upwards anually. 
+1. **The Simplification Rule (Swedish: Förenklingsregeln).** If you use the simplification rule, you can simply pay out dividends up to a predetermined amount set by Skatteverket. For the financial year of 2023, this threshold amount was 195 250 SEK, but the amount is adjusted upwards anually. 
 2. **The Main Rule (Swedish: Huvudregeln).**  The main rule is based on how much salary your company has paid out during the financial year. You can find more information in the links section below.
 
 Additionally, one nice thing to know is that if you don't pay dividends one year, or if you only use a subset of the threshold amount, you are allowed to save the unused threshold amount for the future, and there's no limit to how long you can save up the dividend threshold amounts.
